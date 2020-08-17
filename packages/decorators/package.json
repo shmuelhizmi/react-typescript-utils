@@ -19,10 +19,7 @@
 	},
 	"keywords": [
 		"react",
-		"typescript",
-		"no-rerender",
-		"getter",
-		"setter"
+		"typescript"
 	],
 	"author": "shmuelhizmi",
 	"license": "MIT"
