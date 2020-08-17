@@ -1,7 +1,8 @@
 {
 	"name": "@react-typescript-utils/state-component",
 	"version": "0.0.1",
-	"description": "decorators for react state and lifesycle!",
+	"description": "create statefull react components on the render!",
+	"private": false,
 	"main": "lib/index.js",
 	"scripts": {
 		"build": "tsc",
@@ -20,9 +21,7 @@
 	"keywords": [
 		"react",
 		"typescript",
-		"no-rerender",
-		"getter",
-		"setter"
+		"no-rerender"
 	],
 	"author": "shmuelhizmi",
 	"license": "MIT"
