@@ -1,0 +1,29 @@
+{
+	"name": "@react-typescript-utils/state-component",
+	"version": "0.0.1",
+	"description": "decorators for react state and lifesycle!",
+	"main": "lib/index.js",
+	"scripts": {
+		"build": "tsc",
+		"prepare": "npm run build"
+	},
+	"peerDependencies": {
+		"react": ">=16.0.0"
+	},
+	"dependencies": {
+		"react": "16.13.1"
+	},
+	"devDependencies": {
+		"@types/react": "16.8.24",
+		"typescript": "3.9.7"
+	},
+	"keywords": [
+		"react",
+		"typescript",
+		"no-rerender",
+		"getter",
+		"setter"
+	],
+	"author": "shmuelhizmi",
+	"license": "MIT"
+}

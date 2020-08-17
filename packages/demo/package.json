@@ -1,0 +1,27 @@
+{
+  "name": "@react-typescript-utils/demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "^16.13.1",
+    "@react-typescript-utils/decorators": "0.0.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "css-loader": "^4.2.1",
+    "html-webpack-plugin": "4.3.0",
+    "style-loader": "^1.2.1",
+    "ts-loader": "8.0.2",
+    "typescript": "3.9.7",
+    "webpack": "4.44.1",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  }
+}
