@@ -1,9 +1,9 @@
 {
   "name": "@react-typescript-utils/demo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "dependencies": {
-    "@react-typescript-utils/decorators": "^0.0.2",
+    "@react-typescript-utils/decorators": "^0.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
