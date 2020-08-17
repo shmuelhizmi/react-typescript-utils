@@ -1,6 +1,6 @@
 {
 	"name": "@react-typescript-utils/state-component",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "create statefull react components on the render!",
 	"private": false,
 	"main": "lib/index.js",

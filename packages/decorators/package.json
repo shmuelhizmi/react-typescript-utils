@@ -1,6 +1,6 @@
 {
 	"name": "@react-typescript-utils/decorators",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "decorators for react state and lifesycle!",
 	"private": false,
 	"main": "lib/index.js",

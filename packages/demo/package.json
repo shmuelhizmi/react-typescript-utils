@@ -1,11 +1,11 @@
 {
   "name": "@react-typescript-utils/demo",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
-    "react-dom": "^16.13.1",
-    "@react-typescript-utils/decorators": "0.0.1",
-    "react": "^16.13.1"
+    "@react-typescript-utils/decorators": "^0.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@types/node": "^12.0.0",
