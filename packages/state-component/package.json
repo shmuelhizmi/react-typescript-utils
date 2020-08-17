@@ -23,6 +23,11 @@
 		"typescript",
 		"no-rerender"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shmuelhizmi/react-typescript-utils.git"
+	},
 	"author": "shmuelhizmi",
-	"license": "MIT"
+	"license": "MIT",
+	"gitHead": "b14217755f552c048251c5c2fcee823fe8c7df8f"
 }
